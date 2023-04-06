@@ -1,0 +1,30 @@
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.AssemblyInfo.cs
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\verifica_dados\bin\Debug\net7.0\verifica_dados.exe
+C:\Users\836574281\Desktop\verifica_dados\bin\Debug\net7.0\verifica_dados.deps.json
+C:\Users\836574281\Desktop\verifica_dados\bin\Debug\net7.0\verifica_dados.runtimeconfig.json
+C:\Users\836574281\Desktop\verifica_dados\bin\Debug\net7.0\verifica_dados.dll
+C:\Users\836574281\Desktop\verifica_dados\bin\Debug\net7.0\verifica_dados.pdb
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.dll
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\refint\verifica_dados.dll
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.pdb
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\verifica_dados.genruntimeconfig.cache
+C:\Users\836574281\Desktop\verifica_dados\obj\Debug\net7.0\ref\verifica_dados.dll
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\bin\Debug\net7.0\verifica_dados.exe
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\bin\Debug\net7.0\verifica_dados.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\bin\Debug\net7.0\verifica_dados.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\bin\Debug\net7.0\verifica_dados.dll
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\bin\Debug\net7.0\verifica_dados.pdb
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.dll
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\refint\verifica_dados.dll
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.pdb
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\verifica_dados.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\verifica_dados\obj\Debug\net7.0\ref\verifica_dados.dll
